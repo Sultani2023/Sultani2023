@@ -34,13 +34,6 @@ Welcome to my GitHub profile! I build clean, scalable applications and love lear
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sultani2023&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sultani2023&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sultani2023)  

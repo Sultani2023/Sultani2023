@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Mahfoza Sultani
+# 👋 Hi, I'm Mahfoza Sultani  
 
-💻 Full-Stack Developer | 🌱 Open Source Contributor | 🚀 Tech Enthusiast
+![Animated Greeting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+
+![Profile Picture](https://avatars.githubusercontent.com/u/your-github-id?v=4)  
+
+💻 Full-Stack Developer | 🌱 Open Source Contributor | 🚀 Tech Enthusiast  
 
 Welcome to my GitHub profile! I love building clean, scalable applications and learning new technologies every day.
 
@@ -26,9 +30,9 @@ Welcome to my GitHub profile! I love building clean, scalable applications and l
 
 ## 📂 Featured Projects
 
-- **Inventory Management System** – Stock tracking + reports + dashboards  
-- **Next.js Admin Panel** – Dynamic routing, role-based UI  
-- **React UI Components Library** – Reusable components for fast development  
+- **Stock Management App** – Track and manage inventory efficiently with real-time updates  
+- **Payment App** – Secure and fast payment processing system  
+- **Flexible AI Foundation** – AI-based tools and solutions with flexible integration  
 
 ---
 

@@ -2,8 +2,6 @@
 
 ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 
-![Profile Picture](https://avatars.githubusercontent.com/u/130636225?v=4)  
-
 💻 Full-Stack Developer | 🌱 Open Source Contributor | 🚀 Tech Enthusiast  
 
 Welcome to my GitHub profile! I build clean, scalable applications and love learning new technologies every day.

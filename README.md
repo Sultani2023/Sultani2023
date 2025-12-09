@@ -2,7 +2,7 @@
 
 ![Animated Greeting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 
-![Profile Picture]([https://avatars.githubusercontent.com/u/Sultani2023?v=4](https://github.com/Sultani2023))  
+![Profile Picture]([[https://avatars.githubusercontent.com/u/Sultani2023?v=4](https://github.com/Sultani2023)](https://avatars.githubusercontent.com/u/130636225?v=4))  
 
 💻 Full-Stack Developer | 🌱 Open Source Contributor | 🚀 Tech Enthusiast  
 

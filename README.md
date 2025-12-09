@@ -22,12 +22,6 @@ Learn new technologies and improve every day
 
 📂 Featured Projects
 
-Inventory Management System – Stock tracking + reports + dashboards
-
-Next.js Admin Panel – Dynamic routing, role-based UI
-
-React UI Components Library – Reusable components for fast development
-
 📊 GitHub Stats
 
 🌐 Connect With Me

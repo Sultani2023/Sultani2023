@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mahfoza Sultani  
 
-![Animated Greeting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 
-![Profile Picture]([[https://avatars.githubusercontent.com/u/Sultani2023?v=4](https://github.com/Sultani2023)](https://avatars.githubusercontent.com/u/130636225?v=4))  
+![Profile Picture](https://avatars.githubusercontent.com/u/130636225?v=4)  
 
 💻 Full-Stack Developer | 🌱 Open Source Contributor | 🚀 Tech Enthusiast  
 
-Welcome to my GitHub profile! I love building clean, scalable applications and learning new technologies every day.
+Welcome to my GitHub profile! I build clean, scalable applications and love learning new technologies every day.
 
 ---
 
@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I love building clean, scalable applications and l
 ## 🌟 What I Do
 
 - Build modern full-stack web applications  
-- Work on open-source projects  
-- Design UI components and dashboards  
-- Learn new technologies and improve every day  
+- Contribute to open-source projects  
+- Design reusable UI components and dashboards  
+- Continuously learn and explore new technologies  
 
 ---
 
 ## 📂 Featured Projects
 
-- **Stock Management App** – Track and manage inventory efficiently with real-time updates  
-- **Payment App** – Secure and fast payment processing system  
-- **Flexible AI Foundation** – AI-based tools and solutions with flexible integration  
+- **Stock Management App** – Efficient inventory tracking with real-time updates  
+- **Payment App** – Secure, fast, and user-friendly payment processing system  
+- **Flexible AI Foundation** – AI-powered tools with flexible integrations  
 
 ---
 
@@ -53,6 +53,6 @@ Welcome to my GitHub profile! I love building clean, scalable applications and l
 ## ✨ About Me
 
 - 📍 Based in Afghanistan  
-- 🎯 Passionate about building real-world apps  
-- 📚 Always learning & improving  
-- 🤝 Open to collaboration
+- 🎯 Passionate about building impactful applications  
+- 📚 Lifelong learner and tech explorer  
+- 🤝 Open to collaboration and mentorship

@@ -1,43 +1,25 @@
-# Hi, I'm Mahfoza 👋
+# 👋 Hi, I'm Mahfoza Sultani
 
-[![GitHub followers](https://img.shields.io/github/followers/Sultani2023?label=Follow&style=social)](https://github.com/Sultani2023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfoza-sultani-0b0340298/)
+**Full-Stack Developer | Open Source Contributor | Tech Enthusiast**
 
----
-
-## 🌱 About Me
-I'm a passionate **Web Developer** and **Open Source Enthusiast**.  
-Currently learning and working with modern technologies to build projects that solve real-world problems.  
-
-- 🔭 Currently exploring **React**, **Next.js**, **Node.js**, and **MongoDB**  
-- 💡 Interested in **frontend & backend development**, **UI/UX**, and **open-source contributions**  
-- 🎯 Always excited to learn and collaborate on meaningful projects  
+[![GitHub Followers](https://img.shields.io/github/followers/Sultani2023?label=Follow&style=for-the-badge&color=blueviolet)](https://github.com/Sultani2023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahfoza-sultani-0b0340298/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=react)](https://sultani2023.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-**Frontend:**  
-React, Next.js, Tailwind CSS, Material UI  
+I'm a passionate **Full-Stack Developer** with a keen interest in building scalable web applications and contributing to open-source projects. I believe in writing clean, efficient code and creating seamless user experiences.
 
-**Backend:**  
-Node.js, Express, MongoDB  
-
-**Tools & Platforms:**  
-Git, GitHub, Bitbucket, VS Code, Postman  
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfoza-sultani-0b0340298/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sultani2023)
-
----
-
-## 🏆 GitHub Stats
-[![Mahfoza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sultani2023&show_icons=true&theme=radical)](https://github.com/Sultani2023)
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+```javascript
+const mahfoza = {
+  pronouns: "she" | "her",
+  code: ["JavaScript", "TypeScript", "Python"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Material-UI"],
+  backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+  tools: ["Git", "Docker", "VS Code", "Postman", "Jest"],
+  learning: ["GraphQL", "AWS", "Microservices"],
+  hobbies: ["Coding", "Reading Tech Blogs", "Open Source", "UI/UX Design"]
+};

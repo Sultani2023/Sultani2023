@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I build clean, scalable applications and love lear
 ## 🔧 Tech Stack
 
 **Frontend:** React · Next.js · TypeScript · TailwindCSS  
-**Backend:** Node.js · Express · REST APIs  
+**Backend:** Node.js· REST APIs  
 **Database:** MongoDB · PostgreSQL  
 **Tools:** Git · GitHub · VS Code · Postman  
 
